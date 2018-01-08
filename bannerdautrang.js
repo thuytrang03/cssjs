@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/szDx13' target='_blank'><img src='https://khakim.com/media/wysiwyg/da-mat.jpg' width='500px'/><br/>Mỹ phẩm làm đẹp da mặt</a>. HOTLINE: 0914178855 . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/szDx13' target='_blank'><img src='https://khakim.com/media/wysiwyg/codazon/sportswear/home/banner-newsletter.jpg' width='500px'/><br/>Mỹ phẩm làm đẹp da mặt</a>. HOTLINE: 0914178855 . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
